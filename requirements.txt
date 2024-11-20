@@ -1,0 +1,13 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+colorama==0.4.6
+ftfy==6.3.1
+idna==3.10
+requests==2.32.3
+signalr-client-threads==0.0.12
+six==1.16.0
+sseclient==0.0.27
+urllib3==2.2.3
+wcwidth==0.2.13
+websocket-client==1.8.0
+websockets==14.1
